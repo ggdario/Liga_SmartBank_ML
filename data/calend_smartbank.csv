@@ -1,0 +1,463 @@
+Jornada,Local,Visitante
+1,Huesca,Eibar
+1,R. Sociedad B,Leganés
+1,Girona,SD Amorebieta
+1,Málaga,Mirandés
+1,Las Palmas,Real Valladolid
+1,Ponferradina,Alcorcón
+1,Fuenlabrada,Tenerife
+1,Real Zaragoza,UD Ibiza-Eivissa
+1,Cartagena,Almería
+1,Oviedo,Lugo
+1,Sporting,Burgos CF
+2,Almería,Oviedo
+2,Leganés,Burgos CF
+2,Tenerife,Sporting
+2,UD Ibiza-Eivissa,Málaga
+2,Alcorcón,Fuenlabrada
+2,Huesca,Cartagena
+2,Lugo,R. Sociedad B
+2,Real Valladolid,Real Zaragoza
+2,Eibar,Ponferradina
+2,Girona,Las Palmas
+2,Mirandés,SD Amorebieta
+3,Málaga,Alcorcón
+3,Las Palmas,Huesca
+3,Sporting,Mirandés
+3,Burgos CF,Eibar
+3,Real Zaragoza,Cartagena
+3,SD Amorebieta,Almería
+3,Ponferradina,Girona
+3,R. Sociedad B,Fuenlabrada
+3,Oviedo,Tenerife
+3,Leganés,UD Ibiza-Eivissa
+3,Lugo,Real Valladolid
+4,Almería,Málaga
+4,Burgos CF,Real Valladolid
+4,Mirandés,Las Palmas
+4,Girona,Sporting
+4,Cartagena,R. Sociedad B
+4,UD Ibiza-Eivissa,SD Amorebieta
+4,Huesca,Oviedo
+4,Eibar,Leganés
+4,Alcorcón,Real Zaragoza
+4,Tenerife,Ponferradina
+4,Fuenlabrada,Lugo
+5,Real Valladolid,Tenerife
+5,Lugo,Huesca
+5,R. Sociedad B,Eibar
+5,Sporting,Leganés
+5,Mirandés,Alcorcón
+5,Las Palmas,UD Ibiza-Eivissa
+5,Málaga,Girona
+5,Oviedo,Cartagena
+5,Fuenlabrada,Real Zaragoza
+5,Ponferradina,Almería
+5,SD Amorebieta,Burgos CF
+6,Girona,Real Valladolid
+6,UD Ibiza-Eivissa,Oviedo
+6,Cartagena,Lugo
+6,Eibar,Sporting
+6,Huesca,Fuenlabrada
+6,Leganés,SD Amorebieta
+6,Real Zaragoza,R. Sociedad B
+6,Burgos CF,Las Palmas
+6,Tenerife,Mirandés
+6,Alcorcón,Almería
+6,Ponferradina,Málaga
+7,Fuenlabrada,Cartagena
+7,Lugo,Real Zaragoza
+7,Las Palmas,Ponferradina
+7,R. Sociedad B,Huesca
+7,Real Valladolid,Alcorcón
+7,Mirandés,Leganés
+7,Oviedo,Girona
+7,SD Amorebieta,Eibar
+7,Sporting,Málaga
+7,Almería,Tenerife
+7,UD Ibiza-Eivissa,Burgos CF
+8,Málaga,Fuenlabrada
+8,Ponferradina,Real Valladolid
+8,Alcorcón,R. Sociedad B
+8,Eibar,UD Ibiza-Eivissa
+8,Burgos CF,Mirandés
+8,Leganés,Lugo
+8,SD Amorebieta,Sporting
+8,Huesca,Tenerife
+8,Girona,Almería
+8,Las Palmas,Cartagena
+8,Real Zaragoza,Oviedo
+9,Alcorcón,Burgos CF
+9,Real Valladolid,Málaga
+9,Oviedo,Sporting
+9,Fuenlabrada,Leganés
+9,Lugo,Girona
+9,Tenerife,SD Amorebieta
+9,Real Zaragoza,Huesca
+9,Almería,Las Palmas
+9,Cartagena,UD Ibiza-Eivissa
+9,Mirandés,Eibar
+9,R. Sociedad B,Ponferradina
+10,Málaga,Real Zaragoza
+10,Ponferradina,Fuenlabrada
+10,Eibar,Almería
+10,UD Ibiza-Eivissa,Mirandés
+10,Burgos CF,Lugo
+10,Girona,Huesca
+10,SD Amorebieta,Cartagena
+10,Las Palmas,Tenerife
+10,R. Sociedad B,Oviedo
+10,Leganés,Real Valladolid
+10,Sporting,Alcorcón
+11,Mirandés,Girona
+11,Alcorcón,Leganés
+11,Fuenlabrada,SD Amorebieta
+11,Cartagena,Sporting
+11,Oviedo,Burgos CF
+11,Tenerife,Eibar
+11,Real Zaragoza,Ponferradina
+11,Lugo,Las Palmas
+11,Almería,R. Sociedad B
+11,Real Valladolid,UD Ibiza-Eivissa
+11,Huesca,Málaga
+12,Málaga,Lugo
+12,Eibar,Cartagena
+12,Mirandés,Almería
+12,Ponferradina,Oviedo
+12,SD Amorebieta,R. Sociedad B
+12,Leganés,Tenerife
+12,Las Palmas,Alcorcón
+12,Sporting,Real Valladolid
+12,UD Ibiza-Eivissa,Fuenlabrada
+12,Girona,Real Zaragoza
+12,Burgos CF,Huesca
+13,Tenerife,Burgos CF
+13,Real Valladolid,Eibar
+13,Fuenlabrada,Girona
+13,Cartagena,Ponferradina
+13,Lugo,Sporting
+13,Real Zaragoza,Mirandés
+13,Oviedo,Málaga
+13,Alcorcón,UD Ibiza-Eivissa
+13,R. Sociedad B,Las Palmas
+13,Almería,Leganés
+13,Huesca,SD Amorebieta
+14,Ponferradina,Huesca
+14,SD Amorebieta,Real Valladolid
+14,Girona,Alcorcón
+14,Sporting,Almería
+14,Mirandés,Lugo
+14,Leganés,Cartagena
+14,Burgos CF,Real Zaragoza
+14,UD Ibiza-Eivissa,Tenerife
+14,Málaga,R. Sociedad B
+14,Eibar,Oviedo
+14,Las Palmas,Fuenlabrada
+15,Cartagena,Málaga
+15,Almería,Burgos CF
+15,Real Zaragoza,Sporting
+15,Oviedo,Las Palmas
+15,R. Sociedad B,UD Ibiza-Eivissa
+15,Fuenlabrada,Eibar
+15,Lugo,Ponferradina
+15,Huesca,Leganés
+15,Tenerife,Girona
+15,Real Valladolid,Mirandés
+15,Alcorcón,SD Amorebieta
+16,SD Amorebieta,Lugo
+16,Sporting,R. Sociedad B
+16,Leganés,Oviedo
+16,Girona,Cartagena
+16,UD Ibiza-Eivissa,Almería
+16,Eibar,Alcorcón
+16,Málaga,Tenerife
+16,Las Palmas,Real Zaragoza
+16,Mirandés,Huesca
+16,Real Valladolid,Fuenlabrada
+16,Burgos CF,Ponferradina
+17,Málaga,Las Palmas
+17,Fuenlabrada,Mirandés
+17,Lugo,Eibar
+17,R. Sociedad B,Girona
+17,Cartagena,Burgos CF
+17,Oviedo,SD Amorebieta
+17,Real Zaragoza,Leganés
+17,Huesca,UD Ibiza-Eivissa
+17,Ponferradina,Sporting
+17,Tenerife,Alcorcón
+17,Almería,Real Valladolid
+18,Leganés,Las Palmas
+18,Mirandés,Oviedo
+18,Sporting,Fuenlabrada
+18,Real Valladolid,Cartagena
+18,Alcorcón,Lugo
+18,Burgos CF,Málaga
+18,SD Amorebieta,Real Zaragoza
+18,Almería,Huesca
+18,Tenerife,R. Sociedad B
+18,UD Ibiza-Eivissa,Ponferradina
+18,Eibar,Girona
+19,Fuenlabrada,Almería
+19,Oviedo,Alcorcón
+19,Girona,Leganés
+19,Málaga,SD Amorebieta
+19,Las Palmas,Sporting
+19,Cartagena,Tenerife
+19,Huesca,Real Valladolid
+19,R. Sociedad B,Burgos CF
+19,Ponferradina,Mirandés
+19,Lugo,UD Ibiza-Eivissa
+19,Real Zaragoza,Eibar
+20,Almería,Real Zaragoza
+20,Burgos CF,Fuenlabrada
+20,Tenerife,Lugo
+20,Sporting,Huesca
+20,Leganés,Ponferradina
+20,SD Amorebieta,Las Palmas
+20,Alcorcón,Cartagena
+20,Eibar,Málaga
+20,Real Valladolid,Oviedo
+20,Mirandés,R. Sociedad B
+20,UD Ibiza-Eivissa,Girona
+21,Cartagena,Mirandés
+21,Fuenlabrada,Oviedo
+21,Las Palmas,Eibar
+21,Lugo,Almería
+21,Ponferradina,SD Amorebieta
+21,R. Sociedad B,Real Valladolid
+21,Girona,Burgos CF
+21,Huesca,Alcorcón
+21,UD Ibiza-Eivissa,Sporting
+21,Málaga,Leganés
+21,Real Zaragoza,Tenerife
+22,Mirandés,Real Zaragoza
+22,Burgos CF,SD Amorebieta
+22,Eibar,R. Sociedad B
+22,Real Valladolid,Leganés
+22,Sporting,Lugo
+22,Alcorcón,Málaga
+22,Almería,Cartagena
+22,Tenerife,Las Palmas
+22,Huesca,Girona
+22,Oviedo,Ponferradina
+22,Fuenlabrada,UD Ibiza-Eivissa
+23,Ponferradina,Real Zaragoza
+23,Málaga,Sporting
+23,Cartagena,Huesca
+23,Girona,Fuenlabrada
+23,Leganés,R. Sociedad B
+23,Oviedo,Eibar
+23,SD Amorebieta,Tenerife
+23,Las Palmas,Almería
+23,Lugo,Mirandés
+23,UD Ibiza-Eivissa,Alcorcón
+23,Real Valladolid,Burgos CF
+24,Fuenlabrada,Las Palmas
+24,Tenerife,Oviedo
+24,Sporting,SD Amorebieta
+24,Girona,Lugo
+24,Burgos CF,Leganés
+24,Huesca,Ponferradina
+24,Almería,Eibar
+24,Alcorcón,Mirandés
+24,R. Sociedad B,Cartagena
+24,Málaga,UD Ibiza-Eivissa
+24,Real Zaragoza,Real Valladolid
+25,Mirandés,Málaga
+25,Las Palmas,R. Sociedad B
+25,Ponferradina,Tenerife
+25,Real Valladolid,Sporting
+25,SD Amorebieta,Girona
+25,Cartagena,Fuenlabrada
+25,Eibar,Huesca
+25,Leganés,Alcorcón
+25,Lugo,Burgos CF
+25,UD Ibiza-Eivissa,Real Zaragoza
+25,Oviedo,Almería
+26,Girona,Ponferradina
+26,Real Zaragoza,Málaga
+26,SD Amorebieta,Oviedo
+26,Tenerife,Leganés
+26,Fuenlabrada,Real Valladolid
+26,Huesca,Mirandés
+26,R. Sociedad B,Lugo
+26,Burgos CF,Alcorcón
+26,Cartagena,Las Palmas
+26,Sporting,Eibar
+26,Almería,UD Ibiza-Eivissa
+27,Real Valladolid,Girona
+27,Leganés,Real Zaragoza
+27,Mirandés,Sporting
+27,UD Ibiza-Eivissa,Cartagena
+27,Eibar,Fuenlabrada
+27,Las Palmas,Burgos CF
+27,Málaga,Almería
+27,Alcorcón,Tenerife
+27,Ponferradina,R. Sociedad B
+27,Lugo,SD Amorebieta
+27,Oviedo,Huesca
+28,Tenerife,UD Ibiza-Eivissa
+28,Girona,Eibar
+28,Huesca,Lugo
+28,Real Zaragoza,Las Palmas
+28,Sporting,Ponferradina
+28,SD Amorebieta,Leganés
+28,Burgos CF,Oviedo
+28,R. Sociedad B,Málaga
+28,Cartagena,Real Valladolid
+28,Almería,Mirandés
+28,Fuenlabrada,Alcorcón
+29,Real Valladolid,SD Amorebieta
+29,Las Palmas,Lugo
+29,Oviedo,R. Sociedad B
+29,Alcorcón,Ponferradina
+29,UD Ibiza-Eivissa,Huesca
+29,Mirandés,Tenerife
+29,Eibar,Burgos CF
+29,Leganés,Girona
+29,Sporting,Real Zaragoza
+29,Málaga,Cartagena
+29,Almería,Fuenlabrada
+30,Lugo,Alcorcón
+30,Huesca,Las Palmas
+30,Real Zaragoza,Almería
+30,Cartagena,Eibar
+30,Fuenlabrada,Burgos CF
+30,R. Sociedad B,Sporting
+30,SD Amorebieta,Málaga
+30,Leganés,Mirandés
+30,Girona,Oviedo
+30,Tenerife,Real Valladolid
+30,Ponferradina,UD Ibiza-Eivissa
+31,Las Palmas,Girona
+31,Mirandés,Cartagena
+31,Real Zaragoza,Fuenlabrada
+31,Almería,Lugo
+31,Sporting,Tenerife
+31,Burgos CF,R. Sociedad B
+31,Málaga,Ponferradina
+31,Eibar,SD Amorebieta
+31,Oviedo,Real Valladolid
+31,UD Ibiza-Eivissa,Leganés
+31,Alcorcón,Huesca
+32,Cartagena,Real Zaragoza
+32,Lugo,Oviedo
+32,Fuenlabrada,Málaga
+32,Leganés,Sporting
+32,Ponferradina,Eibar
+32,Girona,UD Ibiza-Eivissa
+32,Huesca,Burgos CF
+32,SD Amorebieta,Alcorcón
+32,Tenerife,Almería
+32,R. Sociedad B,Mirandés
+32,Real Valladolid,Las Palmas
+33,Alcorcón,Real Valladolid
+33,Las Palmas,Leganés
+33,Málaga,Huesca
+33,Oviedo,Fuenlabrada
+33,Mirandés,Ponferradina
+33,Burgos CF,Tenerife
+33,Sporting,Cartagena
+33,Almería,Girona
+33,Eibar,Lugo
+33,UD Ibiza-Eivissa,R. Sociedad B
+33,Real Zaragoza,SD Amorebieta
+34,R. Sociedad B,Alcorcón
+34,Real Valladolid,Lugo
+34,Huesca,Almería
+34,Cartagena,Oviedo
+34,Tenerife,Real Zaragoza
+34,Girona,Málaga
+34,Ponferradina,Las Palmas
+34,Leganés,Fuenlabrada
+34,Burgos CF,Sporting
+34,Eibar,Mirandés
+34,SD Amorebieta,UD Ibiza-Eivissa
+35,UD Ibiza-Eivissa,Eibar
+35,Mirandés,Burgos CF
+35,Real Zaragoza,Girona
+35,Almería,Ponferradina
+35,Alcorcón,Sporting
+35,Málaga,Real Valladolid
+35,Oviedo,Leganés
+35,R. Sociedad B,Tenerife
+35,Lugo,Cartagena
+35,Las Palmas,SD Amorebieta
+35,Fuenlabrada,Huesca
+36,Leganés,Málaga
+36,Sporting,Oviedo
+36,Ponferradina,Lugo
+36,SD Amorebieta,Mirandés
+36,Huesca,Real Zaragoza
+36,Real Valladolid,Almería
+36,Burgos CF,UD Ibiza-Eivissa
+36,Cartagena,Alcorcón
+36,Tenerife,Fuenlabrada
+36,Eibar,Las Palmas
+36,Girona,R. Sociedad B
+37,Fuenlabrada,Ponferradina
+37,Cartagena,Girona
+37,Alcorcón,Oviedo
+37,Lugo,Leganés
+37,Mirandés,Real Valladolid
+37,Málaga,Eibar
+37,Almería,Sporting
+37,Real Zaragoza,Burgos CF
+37,UD Ibiza-Eivissa,Las Palmas
+37,R. Sociedad B,SD Amorebieta
+37,Tenerife,Huesca
+38,Las Palmas,Málaga
+38,Eibar,Real Zaragoza
+38,Real Valladolid,R. Sociedad B
+38,Leganés,Huesca
+38,Lugo,Tenerife
+38,Burgos CF,Almería
+38,Alcorcón,Girona
+38,SD Amorebieta,Fuenlabrada
+38,Ponferradina,Cartagena
+38,Oviedo,Mirandés
+38,Sporting,UD Ibiza-Eivissa
+39,Eibar,Real Valladolid
+39,UD Ibiza-Eivissa,Lugo
+39,Real Zaragoza,Alcorcón
+39,Ponferradina,Burgos CF
+39,Almería,SD Amorebieta
+39,Las Palmas,Mirandés
+39,Málaga,Oviedo
+39,Fuenlabrada,R. Sociedad B
+39,Huesca,Sporting
+39,Girona,Tenerife
+39,Cartagena,Leganés
+40,Alcorcón,Las Palmas
+40,Burgos CF,Cartagena
+40,Mirandés,UD Ibiza-Eivissa
+40,Real Valladolid,Ponferradina
+40,R. Sociedad B,Almería
+40,Tenerife,Málaga
+40,Oviedo,Real Zaragoza
+40,Lugo,Fuenlabrada
+40,Sporting,Girona
+40,SD Amorebieta,Huesca
+40,Leganés,Eibar
+41,Almería,Alcorcón
+41,Real Zaragoza,Lugo
+41,Fuenlabrada,Sporting
+41,Girona,Mirandés
+41,Málaga,Burgos CF
+41,Cartagena,SD Amorebieta
+41,Huesca,R. Sociedad B
+41,Ponferradina,Leganés
+41,UD Ibiza-Eivissa,Real Valladolid
+41,Las Palmas,Oviedo
+41,Eibar,Tenerife
+42,Burgos CF,Girona
+42,SD Amorebieta,Ponferradina
+42,Mirandés,Fuenlabrada
+42,Lugo,Málaga
+42,Real Valladolid,Huesca
+42,Tenerife,Cartagena
+42,Alcorcón,Eibar
+42,R. Sociedad B,Real Zaragoza
+42,Oviedo,UD Ibiza-Eivissa
+42,Sporting,Las Palmas
+42,Leganés,Almería
