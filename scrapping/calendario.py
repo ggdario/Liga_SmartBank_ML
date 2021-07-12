@@ -5,7 +5,7 @@ import pandas as pd
 # Se crea todas las tablas existentes en la url
 calendar_all = pd.read_html('https://resultados.as.com/resultados/futbol/segunda/calendario/')
 
-# Se crea la columna jornada para cada una de las tablas
+# Se crea la columna jornada para cada una de las tablas.
 for i in range(len(calendar_all)):
     calendar_all[i]['Jornada'] = i + 1
 
