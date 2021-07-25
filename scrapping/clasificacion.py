@@ -2,6 +2,7 @@
 # coding: utf-8
 
 import pandas as pd
+from data_processing.procesado_clasifcacion import procesar_clasificacion
 
 
 def descarga_clasificacion(url='https://www.resultados-futbol.com/segunda2021/grupo1/jornada41'):
@@ -43,6 +44,8 @@ def descarga_clasificacion(url='https://www.resultados-futbol.com/segunda2021/gr
 
     return 0
 
+
 if __name__ == '__main__':
 
     descarga_clasificacion()
+    procesar_clasificacion()
