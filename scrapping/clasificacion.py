@@ -5,14 +5,14 @@ import pandas as pd
 from data_processing.procesado_clasifcacion import procesar_clasificacion
 
 
-def descarga_clasificacion(url='https://www.resultados-futbol.com/segunda2021/grupo1/jornada41'):
+def descarga_clasificacion(jornada):
     """
-    :param url: url sobre la que descargar los resultados
+    :param jornada: jornada sobre la que se quiere descargar datos
     :return:
     """
 
+    url = f'https://www.resultados-futbol.com/segunda2021/grupo1/jornada{jornada}'
     # Se obtiene la jornada del enlace
-    jornada = int(url.split('/jornada')[-1])
 
     # Obtenemos la tabla de la clasificacion
     clasif = pd.read_html(url, attrs={'id': 'tabla2'})[0]
@@ -49,4 +49,4 @@ def descarga_clasificacion(url='https://www.resultados-futbol.com/segunda2021/gr
 
 if __name__ == '__main__':
 
-    descarga_clasificacion()
+    descarga_clasificacion(36)
