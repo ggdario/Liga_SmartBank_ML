@@ -42,10 +42,11 @@ def descarga_clasificacion(url='https://www.resultados-futbol.com/segunda2021/gr
     # Se guarda
     clasif.to_csv('../data/clasif.csv', index=True)
 
+    procesar_clasificacion()
+
     return 0
 
 
 if __name__ == '__main__':
 
     descarga_clasificacion()
-    procesar_clasificacion()
